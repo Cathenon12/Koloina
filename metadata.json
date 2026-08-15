@@ -1,0 +1,6 @@
+{
+  "name": "Pour Koloina — Mon amour, ma lumière",
+  "description": "Une déclaration d'amour poétique et romantique dédiée à Koloina avec cœurs flottants, bouquets de fleurs et douces mélodies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
